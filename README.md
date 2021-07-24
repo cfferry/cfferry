@@ -2,6 +2,7 @@
 
 - 📦 I'm interested in databases
 - 📍 I'm currently working in [BerylDB](http://docs.beryl.dev/), an open source key-value database.
+- ☕ Let's talk about C++ and Linux.
 - 📖 I'm always looking for great open sources projects to collaborate with.
 - 😀 Pronous: he/him/his
 
