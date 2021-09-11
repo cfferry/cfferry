@@ -5,7 +5,7 @@
 - ☕ Let's talk about C++ and Linux.
 - 📖 I'm always looking for great open sources projects to collaborate with.
 - 😀 Pronous: he/him/his.
-- 📮 You may follow me on GitHub and [Twitter](https://twitter.com/ferrycfs).
+- 📮 You may learn more about BerylDB on [Twitter](https://twitter.com/beryldb).
 
 [![BerylDB](https://github-readme-stats.vercel.app/api/pin/?username=beryldb&repo=beryldb)](https://github.com/beryldb/beryldb)
 [![BerylDB-CLI](https://github-readme-stats.vercel.app/api/pin/?username=beryldb&repo=beryldb-cli)](https://github.com/beryldb/beryldb-cli)
