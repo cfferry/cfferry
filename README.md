@@ -11,4 +11,5 @@
 [![BerylDB-CLI](https://github-readme-stats.vercel.app/api/pin/?username=beryldb&repo=beryldb-cli)](https://github.com/beryldb/beryldb-cli)
 [![php-beryl](https://github-readme-stats.vercel.app/api/pin/?username=beryldb&repo=php-beryl)](https://github.com/beryldb/php-beryl)
 [![node-beryl](https://github-readme-stats.vercel.app/api/pin/?username=beryldb&repo=node-beryl)](https://github.com/beryldb/node-beryl)
+[![python-beryl](https://github-readme-stats.vercel.app/api/pin/?username=beryldb&repo=python-beryl)](https://github.com/beryldb/python-beryl)
 
